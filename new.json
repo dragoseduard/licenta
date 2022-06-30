@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-95.53970224778413",
+                    "30.711509"
+                ]
+            },
+            "properties": {
+                "marker-color": "medium",
+                "marker-size": "square-stroked",
+                "marker-symbol": "Bulevardul Berceni nr 41 bloc 1 ap 31",
+                "zona": "5500",
+                "pret": "1",
+                "vechime": "1",
+                "nrcamere": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-95.53970224778413",
+                    "30.711509"
+                ]
+            },
+            "properties": {
+                "marker-color": "medium",
+                "marker-size": "square-stroked",
+                "marker-symbol": "Soseaua Timpuri noi nr 141 bloc 4 ap 13",
+                "zona": "2000",
+                "pret": "1",
+                "vechime": "1",
+                "nrcamere": ""
+            }
+        }
+    ]
+}
